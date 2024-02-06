@@ -15,3 +15,17 @@ Algoritmo saludo
 	
 	
 FinAlgoritmo
+
+Ejercicio Sandra Valderrama
+Algoritmo presentación 
+	Escribir "Bienvenido, por favor escriba su nombre"
+	Escribir "ahora escriba su apellido"
+	
+	Escribir "nombre"
+	leer nombre
+	
+	Escribir "apellido"
+	leer apellido
+	
+	Escribir "Bienvenido, mi nombre completo es:", nombre, apellido
+FinAlgoritmo
