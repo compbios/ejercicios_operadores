@@ -2,7 +2,7 @@ Algoritmo conversor_moneda
 	//declare dos variables que almacenen el monto en dólares
 	//a convertir y el resultado de la operación
 	
-	//la tasa de cambio de hoy es 1 US$ = 3645.32 COP
+	//la tasa de cambio de hoy es 1 US$ = 3136.43 COP
 	//asigne la tasa de cambio a una constante
 	
 	//solicite el monto en dólares a convertir y léalo en la
